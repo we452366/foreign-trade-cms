@@ -1,0 +1,20 @@
+{
+  "name": "foreign-trade-cms",
+  "version": "1.0.0",
+  "description": "外贸商品cms系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/we452366/foreign-trade-cms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/we452366/foreign-trade-cms/issues"
+  },
+  "homepage": "https://github.com/we452366/foreign-trade-cms#readme"
+}
