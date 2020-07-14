@@ -1,10 +1,10 @@
 const BaseService = require('./base');
 
-class UserService extends BaseService {
+class RoleService extends BaseService {
     constructor(...args) {
         super(...args);
-        this.entity = 'user';
+        this.entity = 'role';
     }
 }
 
-module.exports = UserService;
+module.exports = RoleService;
